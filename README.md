@@ -27,3 +27,13 @@ um arquivo específico para concluir.
 - Análise dos registros.
 - Criação dos arquivos em CSV.
 - Dashboard interativo é explicativo no Looker Studio.
+
+# Conclusões
+- A análise dos sinistros de trânsito de agosto de 2026 identificou variações na quantidade de ocorrências ao longo do mês, com aumento no final do período. 
+- O município de São Paulo concentrou o maior número de registros e de vítimas contabilizadas.
+- As colisões é sinistros mais frequente, com destaque para as regiões Metropolitana de São Paulo, Campinas e Baixada Santista.
+
+Os resultados ajudam a compreender a distribuição dos sinistros no período analisado e podem contribuir para ações futuras com conscientização e segurança no trânsito.
+
+## Dashboard
+Link do Looker Studio: https://datastudio.google.com/reporting/2bd349ac-a2bb-4338-9c4e-577a7eb8ec77
