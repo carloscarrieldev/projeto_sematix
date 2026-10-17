@@ -4,7 +4,7 @@
 Analisar as causas e acontecimentos no trânsito do mês de agosto de 2026 
 tendo como objetivo trazer padrões e soluções durante os períodos.
 
-### Justificativa do uso dos dados
+# Justificativa do uso dos dados
 Pretendo utilizar os dados abertos de São Paulo para fazer uma análise detalhada dos sinistros na cidade. 
 Vou examinar colunas como município, tipos, dados, gravidade e veículos. A análise no Python e a 
 visualização no Looker ajudam a compreender melhor os dados, identificar padrões e elaborar ideias 
